@@ -1,3 +1,5 @@
-body { background-color: red;}
+body { background-color: red;
+       background-image: href="backgroundimage.jpg"
+}
   #nav-table { width: 800px;}
 #nav-th {width 200px; text-align:center;}
